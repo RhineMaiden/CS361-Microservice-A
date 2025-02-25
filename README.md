@@ -35,7 +35,7 @@ End the Process
         socket.send_string("quit") 
 
 
-[UML sequence diagram](docs/UML_Sequence_Diagram.png)
+[UML sequence diagram](UML_Sequence_Diagram.png)
 
 
 UML sequence diagram showing how requesting and receiving data works. Make it 
