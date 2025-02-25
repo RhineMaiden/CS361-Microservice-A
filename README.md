@@ -36,7 +36,3 @@ End the Process
 
 
 [UML sequence diagram](UML_Sequence_Diagram.png)
-
-
-UML sequence diagram showing how requesting and receiving data works. Make it 
-detailed enough that your teammate (and your grader) will understand.
